@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/reactportfolio/static/css/main.b06775a1.chunk.css",
+    "main.js": "/reactportfolio/static/js/main.7d75ee45.chunk.js",
+    "main.js.map": "/reactportfolio/static/js/main.7d75ee45.chunk.js.map",
+    "runtime-main.js": "/reactportfolio/static/js/runtime-main.a3b9637f.js",
+    "runtime-main.js.map": "/reactportfolio/static/js/runtime-main.a3b9637f.js.map",
+    "static/js/2.44727926.chunk.js": "/reactportfolio/static/js/2.44727926.chunk.js",
+    "static/js/2.44727926.chunk.js.map": "/reactportfolio/static/js/2.44727926.chunk.js.map",
+    "index.html": "/reactportfolio/index.html",
+    "precache-manifest.37846ddfd6cc8ffaacdfaf7421e84be7.js": "/reactportfolio/precache-manifest.37846ddfd6cc8ffaacdfaf7421e84be7.js",
+    "service-worker.js": "/reactportfolio/service-worker.js",
+    "static/css/main.b06775a1.chunk.css.map": "/reactportfolio/static/css/main.b06775a1.chunk.css.map",
+    "static/js/2.44727926.chunk.js.LICENSE.txt": "/reactportfolio/static/js/2.44727926.chunk.js.LICENSE.txt",
+    "static/media/Taskit.jpeg": "/reactportfolio/static/media/Taskit.cf706cd0.jpeg",
+    "static/media/demo.png": "/reactportfolio/static/media/demo.1d22aac6.png",
+    "static/media/noteTaker.jpeg": "/reactportfolio/static/media/noteTaker.4796953f.jpeg",
+    "static/media/scheduler.png": "/reactportfolio/static/media/scheduler.4a748f34.png",
+    "static/media/vocabulary.jpeg": "/reactportfolio/static/media/vocabulary.e3d3c53e.jpeg",
+    "static/media/App.css": "/reactportfolio/static/media/wendyportfolio.ce98b3c3.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3b9637f.js",
+    "static/js/2.44727926.chunk.js",
+    "static/css/main.b06775a1.chunk.css",
+    "static/js/main.7d75ee45.chunk.js"
+  ]
+}
